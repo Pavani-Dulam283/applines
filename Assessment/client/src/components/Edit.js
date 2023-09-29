@@ -17,6 +17,7 @@ const Edit = () => {
             alert("data edited successfully")
             navigate("/view")
         })
+         //hi
 
     }
     return (
