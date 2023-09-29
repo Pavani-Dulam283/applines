@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       
       <Path/>
+      <h1></h1>
 
     </div>
   );
